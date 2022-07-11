@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mohamedlarbi.benchouala@gmail.com
+	name = Mohamed Larbi Benchouala
